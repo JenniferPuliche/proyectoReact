@@ -1,0 +1,31 @@
+.App-logo{
+  width: 40%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.App p{
+  margin-top: 30px;
+  width: 50%;
+}
+
+.imagenCentro{
+  width: 12%;
+}
+
+.links{
+  margin-right: 12px;
+  padding: 12px;
+}
+
+.App-footer{
+  margin-top: 20px;
+  width: 5%;
+}
